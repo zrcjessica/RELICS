@@ -8,7 +8,11 @@ This work is continously being improved. Please ask questions or [post issues](h
 RELICS runs on [R](https://cran.r-project.org/bin/windows/base/). Please make sure you have R version 3.5.1 or higher
 
 ## Obtain source code
-Clone source code to your desired location with the following command: ```git clone https://github.com/patfiaux/RELICS.git```. Alternatively, download the repository.
+Clone source code to your desired location with the following command: 
+```bash
+git clone https://github.com/patfiaux/RELICS.git
+```
+Alternatively, download the repository.
 
 ## Install requirements
 You will need the following packages to run RELICS. If you don't have them, install them using the following commands. Installations will take about 5 minutes on a standard laptop.
